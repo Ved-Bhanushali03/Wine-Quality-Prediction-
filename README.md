@@ -7,6 +7,7 @@
 
 An end-to-end Machine Learning pipeline implemented in Python to analyze and predict red wine quality based on physicochemical characteristics. This system transforms structural chemical data into an automated classification tool using an ensemble learning approach.
 
+
 ---
 
 ## 📌 Table of Contents
